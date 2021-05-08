@@ -1,15 +1,17 @@
 ### Hello World, I'm Rachel 👋
-
-<!--
-**LewisRa/LewisRa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Recent Graduate with Master's in Statistics. Interested in data engineering and "productionalizing" ML. Catch me at my local Meetups discussing data and tech.
 
 Savannah, Ga | Jacksonville, FL
-Here are some ideas to get you started:
-### Follow me
+## Follow me
  - [LinkedIn](https://www.linkedin.com/in/lewis-rachel1207/)
  - [Tableau Public](https://public.tableau.com/profile/rachel.lewis4673#!/)
  - [IG](https://www.instagram.com/rachel_trinity)
+
+<!--
+**LewisRa/LewisRa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
