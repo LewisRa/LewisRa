@@ -1,7 +1,7 @@
 ### Hello World, I'm Rachel 👋
 Recent Graduate with Master's in Statistics. Interested in data engineering and "productionalizing" ML. Catch me at my local Meetups discussing data and tech.
 
-Savannah, Ga | Jacksonville, FL
+
 ## Follow me
  - [LinkedIn](https://www.linkedin.com/in/lewis-rachel1207/)
  - [Tableau Public](https://public.tableau.com/profile/rachel.lewis4673#!/)
