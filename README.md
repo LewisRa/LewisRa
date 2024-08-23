@@ -5,7 +5,6 @@ Recent Graduate with Master's in Statistics. Interested in data engineering and 
 ## Follow me
  - [LinkedIn](https://www.linkedin.com/in/lewis-rachel1207/)
  - [Tableau Public](https://public.tableau.com/profile/rachel.lewis4673#!/)
- - [IG](https://www.instagram.com/rachel_trinity)
 
 <!--
 **LewisRa/LewisRa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
